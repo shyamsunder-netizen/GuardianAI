@@ -5,3 +5,4 @@ joblib
 beautifulsoup4
 requests
 gunicorn
+python-whois

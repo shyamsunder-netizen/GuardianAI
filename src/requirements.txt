@@ -2,6 +2,7 @@ flask
 pandas
 scikit-learn
 joblib
-requests
 beautifulsoup4
+requests
 gunicorn
+python-whois
